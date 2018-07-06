@@ -11,14 +11,14 @@ on Client folder: Run yarn start to listen app on local port.
 
 ### List of features:
 
-Upload CSV.
-After CSV upload, it adds new companies with all related info and updates the companies that already exist in database. Headers of CSV have to be as follow:
+1. Upload CSV:
+  After CSV upload, it adds new companies with all related info and updates the companies that already exist in database. Headers of CSV have to be as follow:
 
-Name;Source;Business;Location;Info
+  Name;Source;Business;Location;Info
 
-Manual changes on the table. Every change is saved and can be viewed in reports.
+2. Manual changes on the table. Every change is saved and can be viewed in reports.
 
-Track updates made to the database table. See changes over time as different types of graphs. See top ten list of companies based on percentage growth of FTE.
+3. Track updates made to the database table. See changes over time as different types of graphs. See top ten list of companies based on percentage growth of FTE.
 
 ### Manual:
 
