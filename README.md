@@ -1,6 +1,8 @@
 # ScaleUpNation App
 This repo contains a frontend and backend for a ScaleUpNation Bussines App. It uses Typescript, Koa, routing-controllers and TypeORM in the backend and React/Redux in the frontend. The backend exposes a REST API. The app runs with yarn start on client side and nodemon dev on the server side.
 
+_______________________________________________________________________________
+
 ### Installation:
 
 Clone this repository. Run yarn to install all libraries.
@@ -8,6 +10,8 @@ Clone this repository. Run yarn to install all libraries.
 on Server folder: Run 'yarn tsc' to compile. Run 'nodemon .' on the target folder.
 
 on Client folder: Run yarn start to listen app on local port.
+
+_______________________________________________________________________________
 
 ### List of features:
 
@@ -20,6 +24,8 @@ on Client folder: Run yarn start to listen app on local port.
 2. Manual changes on the table. Every change is saved and can be viewed in reports.
 
 3. Track updates made to the database table. See changes over time as different types of graphs. See top ten list of companies based on percentage growth of FTE.
+
+_______________________________________________________________________________
 
 ### Manual:
 
