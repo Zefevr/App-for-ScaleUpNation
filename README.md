@@ -5,7 +5,7 @@ This repo contains a frontend and backend for a ScaleUpNation Bussines App. It u
 
 Clone this repository. Run yarn to install all libraries.
 
-on Server folder: Run 'yarn tsc -w' to compile. Run 'nodemon .' on the target folder.
+on Server folder: Run 'yarn tsc' to compile. Run 'nodemon .' on the target folder.
 
 on Client folder: Run yarn start to listen app on local port.
 
